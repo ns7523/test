@@ -9,7 +9,10 @@
 </p>
 
 <p>
-  <code>Sandbox</code> · <code>Experiments</code> · <code>Validation</code> · <code>CI/CD Testing</code> · <code>Prototypes</code>
+  <img src="https://img.shields.io/badge/Sandbox-64748B?style=for-the-badge&logo=github&logoColor=white" alt="Sandbox" />
+  <img src="https://img.shields.io/badge/Experiments-7C3AED?style=for-the-badge&logo=beaker&logoColor=white" alt="Experiments" />
+  <img src="https://img.shields.io/badge/Validation-16A34A?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Validation" />
+  <img src="https://img.shields.io/badge/CI%2FCD-0A84FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD" />
 </p>
 
 </div>
@@ -141,7 +144,7 @@ notes.md    Findings, tradeoffs, and next action
 
 ---
 
-## 07 · Screenshots & Assets
+## 07 · Visual Assets
 
 <table>
 <tr>
@@ -185,6 +188,11 @@ Example output from a tested workflow or prototype.
 
 **AI & Cybersecurity Engineer**
 
-[GitHub](https://github.com/ns7523) · [LinkedIn](https://www.linkedin.com/in/nsakash7523) · [Portfolio](https://nsakash.in) · [Email](mailto:nsakash752003@gmail.com)
+<p>
+  <a href="https://github.com/ns7523"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://nsakash.in"><img src="https://img.shields.io/badge/Portfolio-0A84FF?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:contact@nsakash.in"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/nsakash7523"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
 
 </div>
